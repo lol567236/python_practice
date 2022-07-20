@@ -1,4 +1,3 @@
-from unittest import result
 
 
 n = 10
